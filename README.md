@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+This is the account I use for working on [Helioviewer](https://helioviewer.org) and related projects. Consider this my "business" account.
+I didn't know that github recommends using one profile for work and play, so I have two accounts.
+My other one is [dangarbri](https://github.com/dangarbri)
+
+[![trophies](https://github-profile-trophy.vercel.app/?username=dgarciabriseno)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
 **dgarciabriseno/dgarciabriseno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
